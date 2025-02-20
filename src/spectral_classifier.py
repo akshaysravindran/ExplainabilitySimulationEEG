@@ -16,13 +16,7 @@
     via github issues section.
     **********************************************************************************
     Author:     Akshay Sujatha Ravindran
-    Date:       04/20/21
-    File:
-    Comments:   This is the main file to train a convolutional network tailored towards
-    using gradCAM visualization of CNN trained on EEG in pytorch. The script is 
-    based off the paper Interpretable Deep Learning Models for Single Trial Prediction of Balance Loss 
-    DOI: 10.1109/SMC42975.2020.9283206
-    
+    Date:       04/20/21 
 
     **********************************************************************************
 """
