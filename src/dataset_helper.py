@@ -18,10 +18,7 @@
     Date:       08/26/21
     File:       Load the data
     Comments:   This is a helper function to load the files
-    
-    
-    Packages Required: tensorflow-gpu==1.15 (Check the version), tf_keras_vis, scipy  
-    **********************************************************************************
+     
 """
 
 import numpy as np
